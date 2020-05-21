@@ -56,8 +56,8 @@
     "docs/CHANGELOG.md"
   ],
   "dependencies": {
-    "jquery" : "~3.3.1",
-    "bootstrap": "~4.1.3"
+    "jquery" : "~3.4",
+    "bootstrap": "^4"
   },
   "devDependencies": {
     "sinonjs": "^1.17.1"
